@@ -12,6 +12,11 @@
       background-image: linear-gradient(to bottom, #FFD4B7, #FEC89A);
     }
 
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+    }
+
     h1 {
       text-align: center;
       color: #333333;
@@ -54,16 +59,34 @@
       color: #666666;
       margin-top: 40px;
     }
+
+    /* Adjustments for mobile devices */
+    @media (max-width: 480px) {
+      body {
+        padding: 10px;
+      }
+
+      .container {
+        max-width: 100%;
+      }
+
+      h1 {
+        font-size: 32px;
+        margin-bottom: 20px;
+      }
+
+      li {
+        display: block;
+        margin: 10px auto;
+      }
+    }
   </style>
 </head>
 <body>
-  <h1>Russian Bear's Repo</h1> <!-- Change this to your alias or repo name! -->
-  <ul>
-    <li><a class="btn" href="cydia://url/https://cydia.saurik.com/api/share#?source=https://russianbearrepo.github.io/">Add to Cydia</a></li> <!-- Put your repo URL in REPLACEHERE, remove this comment. -->
-    <li><a class="btn" href="installer://add/https://russianbearrepo.github.io/">Add to Installer</a></li> <!-- Put your repo URL in REPLACEHERE, remove this comment. -->
-    <li><a class="btn" href="sileo://source/https://russianbearrepo.github.io/">Add to Sileo</a></li> <!-- Put your repo URL in REPLACEHERE, remove this comment. -->
-    <li><a class="btn" href="zbra://sources/add/https://russianbearrepo.github.io/">Add to Zebra</a></li> <!-- Put your repo URL in REPLACEHERE, remove this comment. -->
-  </ul>
-  <p>Message me on Reddit if needed <a class="btn" href="https://www.reddit.com/user/Russian__Bear_/">u/Russian__Bear_</a> :)</p> <!-- This can be removed, but I'd appreciate if this was left or edited to still include the link to your Reddit account! -->
-</body>
-</html>
+  <div class="container">
+    <h1>Russian Bear's Repo</h1> <!-- Change this to your alias or repo name! -->
+    <ul>
+      <li><a class="btn" href="cydia://url/https://cydia.saurik.com/api/share#?source=https://russianbearrepo.github.io/">Add to Cydia</a></li> <!-- Put your repo URL in REPLACEHERE, remove this comment. -->
+      <li><a class="btn" href="installer://add/https://russianbearrepo.github.io/">Add to Installer</a></li> <!-- Put your repo URL in REPLACEHERE, remove this comment. -->
+      <li><a class="btn" href="sileo://source/https://russianbearrepo.github.io/">Add to Sileo</a></li> <!-- Put your repo URL in REPLACEHERE, remove this comment. -->
+      <li><a class="btn" href="zbra://sources/add/https

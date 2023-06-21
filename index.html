@@ -27,6 +27,7 @@
     }
 
     li {
+      display: inline-block;
       margin: 10px;
     }
 
@@ -53,22 +54,17 @@
       margin-top: 40px;
     }
 
-    /* Media queries for mobile devices */
+    /* Media query for mobile devices */
     @media only screen and (max-width: 600px) {
-      ul {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-      }
-
-      .btn {
-        padding: 20px 40px;
-        font-size: 24px;
-        margin-bottom: 10px;
-      }
-
-      p {
-        font-size: 20px;
+      /* Check if the device is an Apple device */
+      @supports (-webkit-touch-callout: none) {
+        .btn {
+          display: block;
+          width: 100%;
+          padding: 20px 40px;
+          font-size: 24px;
+          margin-bottom: 10px;
+        }
       }
     }
   </style>

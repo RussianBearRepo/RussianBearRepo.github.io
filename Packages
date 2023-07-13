@@ -7,6 +7,6 @@ Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), preferenceloader
 Filename: ./debs/com.russianbear.passcodedisabled_0.0.1_iphoneos-arm64.deb
 Size: 60798
 MD5sum: 241818110E4761B88DBB660C9E4A7A82
-Description: Customize the passcode disabled screen. Text, image, audio, and more features coming soon.
+Description: Customize the passcode disabled screen, either for trolling or more. Text, image, audio, and more features coming soon.
 Name: com.russianbear.passcodedisabled_0.0.1_iphoneos-arm64.deb
 Author: russianbear

@@ -1,8 +1,8 @@
-Origin: Missile
-Label: Missile
+Origin: Russian Bear's Repo
+Label: Russian Bear's Repo
 Suite: stable
 Version: 1.0
-Codename: Missile
-Architectures: iphoneos-arm
+Codename: ios
+Architectures: iphoneos-arm iphoneos-arm64
 Components: main
-Description: Personal jailbreak repo
+Description: Russian Bear's Repo

@@ -1,12 +1,12 @@
 Package: com.russianbear.passcodedisabled
 Architecture: iphoneos-arm64
 Version: 0.0.1
-Section: Tweaks (Rootless)
+Section: Tweaks
 Maintainer: russianbear
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), preferenceloader
 Filename: ./debs/com.russianbear.passcodedisabled_0.0.1_iphoneos-arm64.deb
-Size: 60798
-MD5sum: 241818110E4761B88DBB660C9E4A7A82
+Size: 60790
+MD5sum: 990D68A8211D1511E6EC2DC1CBF0B128
 Description: Customize the passcode disabled screen, either for trolling or more. Text, image, audio, and more features coming soon.
 Name: com.russianbear.passcodedisabled_0.0.1_iphoneos-arm64.deb
 Author: russianbear

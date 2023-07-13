@@ -1,7 +1,7 @@
 Package: com.russianbear.passcodedisabled
 Architecture: iphoneos-arm64
 Version: 0.0.1
-Section: Tweaks
+Section: Tweaks (Rootless)
 Maintainer: russianbear
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), preferenceloader
 Filename: ./debs/rootless/com.russianbear.passcodedisabled_0.0.1_iphoneos-arm64.deb

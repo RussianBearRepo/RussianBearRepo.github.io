@@ -13,7 +13,7 @@ Author: russianbear
 Depiction: https://russianbearr.github.io/repo/depictions/?p=com.russianbear.passcodedisabled
 
 Package: com.russianbear.passcodedisabled
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Version: 0.0.1
 Section: Tweaks (rootless)
 Maintainer: russianbear

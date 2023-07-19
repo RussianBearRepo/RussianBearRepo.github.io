@@ -12,16 +12,3 @@ Name: Passcode Disabled
 Author: russianbear
 Depiction: https://russianbearr.github.io/repo/depictions/?p=com.russianbear.passcodedisabled
 
-Package: com.russianbear.passcodedisabled
-Architecture: iphoneos-arm64
-Version: 0.0.1
-Section: Tweaks
-Maintainer: russianbear
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), preferenceloader
-Filename: ./debs/com.russianbear.passcodedisabled_0.0.1_iphoneos-arm64.deb
-Size: 80604
-MD5sum: 744e68cf5a260be595a0e580670128dd
-Description: Customize the screen when you disable your passcode!
-Name: Passcode Disabled
-Author: russianbear
-Depiction: https://russianbearr.github.io/repo/depictions/?p=com.russianbear.passcodedisabled

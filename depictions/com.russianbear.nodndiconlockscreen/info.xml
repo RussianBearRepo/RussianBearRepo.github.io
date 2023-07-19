@@ -1,6 +1,6 @@
 <package>
-	<id>com.russianbear.nodndiconlockscreen</id>
-	<name>noDNDiconLockScreen</name>
+	<id>com.russianbear.passcodedisabled</id>
+	<name>Passcode Disabled</name>
 	<version>0.0.1</version>
 	<compatibility>
 		<firmware>
@@ -9,9 +9,10 @@
 	</compatibility>
 	<dependencies>
 		<package>dev.theos.orion</package>
+	        <package>preferenceloader</package>
 	</dependencies>
 	<descriptionlist>
-		<description>This is an package will full depictions.</description>
+		<description>Customize the screen when you disable your passcode!</description>
 	</descriptionlist>
 	<changelog>
 		<change>Second release</change>

@@ -1,13 +1,27 @@
-Package: com.russianbear.nodndiconlockscreen
+Package: com.russianbear.passcodedisabled
 Architecture: iphoneos-arm
 Version: 0.0.1
 Section: Tweaks
 Maintainer: russianbear
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
-Filename: ./debs/com.russianbear.nodndiconlockscreen_0.0.1_iphoneos-arm.deb
-Size: 16634
-MD5sum: 80d83bbe8a5dd2e8eed2e35174b9b88d
-Description: Hide the Do Not Disturb icon on Lockscreen: introduced on ios 15.
-Name: noDNDiconLockScreen
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), preferenceloader
+Filename: ./debs/com.russianbear.passcodedisabled_0.0.1_iphoneos-arm.deb
+Size: 80756
+MD5sum: 7a011280e642756eda9ac01304fbf33b
+Description: Customize the screen when you disable your passcode!
+Name: Passcode Disabled
 Author: russianbear
-Depiction: https://russianbearr.github.io/repo/depictions/?p=com.russianbear.nodndiconlockscreen
+Depiction: https://russianbearr.github.io/repo/depictions/?p=com.russianbear.passcodedisabled
+
+Package: com.russianbear.passcodedisabled
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks (rootless)
+Maintainer: russianbear
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), preferenceloader
+Filename: ./debs/com.russianbear.passcodedisabled_0.0.1_iphoneos-arm64.deb
+Size: 80604
+MD5sum: 744e68cf5a260be595a0e580670128dd
+Description: Customize the screen when you disable your passcode!
+Name: Passcode Disabled
+Author: russianbear
+Depiction: https://russianbearr.github.io/repo/depictions/?p=com.russianbear.passcodedisabled

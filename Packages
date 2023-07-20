@@ -12,6 +12,7 @@ Name: Passcode Disabled
 Author: russianbear
 Depiction: https://russianbearrepo.github.io/depictions/?p=com.russianbear.passcodedisabled
 
+<<<<<<< Updated upstream
 Package: com.russianbear.passcodedisabled
 Architecture: iphoneos-arm64
 Version: 0.0.1
@@ -25,3 +26,80 @@ Description: Customize the screen when you disable your passcode!
 Name: Passcode Disabled
 Author: russianbear
 Depiction: https://russianbearrepo.github.io/depictions/?p=com.russianbear.passcodedisabled
+=======
+
+Package: Ex: com.frostzone.helloworld
+Version: 0.0.1
+Architecture: 
+Depends: 
+Maintainer: iPwned <test@email.com>
+Filename: /com.russianbear.passcodedisabled_0.0.1_iphoneos-arm.deb
+Size: 80756
+MD5sum: 7a011280e642756eda9ac01304fbf33b
+SHA1: 6ec3ec3b077fa60f172c2e58512313c6f5173b14
+SHA256: 353f8833897dd1785f945177bac69918ec4bbdb6981310c0c13486c539afca95
+Section: Ex: Tweaks, Theme
+Description: An awesome mobile substrate tweak
+Author: iPwned <test@email.com>
+Name: Tweak name
+
+Package: Ex: com.frostzone.helloworld
+Version: 0.0.1
+Architecture: 
+Depends: 
+Maintainer: iPwned <test@email.com>
+Filename: /com.russianbear.passcodedisabled_0.0.1_iphoneos-arm.deb
+Size: 80756
+MD5sum: 7a011280e642756eda9ac01304fbf33b
+SHA1: 6ec3ec3b077fa60f172c2e58512313c6f5173b14
+SHA256: 353f8833897dd1785f945177bac69918ec4bbdb6981310c0c13486c539afca95
+Section: Ex: Tweaks, Theme
+Description: An awesome mobile substrate tweak
+Author: iPwned <test@email.com>
+Name: Tweak name
+
+Package: Ex: com.frostzone.helloworld
+Version: 0.0.1
+Architecture: 
+Depends: 
+Maintainer: iPwned <test@email.com>
+Filename: /com.russianbear.passcodedisabled_0.0.1_iphoneos-arm.deb
+Size: 80756
+MD5sum: 7a011280e642756eda9ac01304fbf33b
+SHA1: 6ec3ec3b077fa60f172c2e58512313c6f5173b14
+SHA256: 353f8833897dd1785f945177bac69918ec4bbdb6981310c0c13486c539afca95
+Section: Ex: Tweaks, Theme
+Description: An awesome mobile substrate tweak
+Author: iPwned <test@email.com>
+Name: Tweak name
+
+Package: Ex: com.frostzone.helloworld
+Version: 0.0.1
+Architecture: 
+Depends: 
+Maintainer: iPwned <test@email.com>
+Filename: /com.russianbear.passcodedisabled_0.0.1_iphoneos-arm.deb
+Size: 80756
+MD5sum: 7a011280e642756eda9ac01304fbf33b
+SHA1: 6ec3ec3b077fa60f172c2e58512313c6f5173b14
+SHA256: 353f8833897dd1785f945177bac69918ec4bbdb6981310c0c13486c539afca95
+Section: Ex: Tweaks, Theme
+Description: An awesome mobile substrate tweak
+Author: iPwned <test@email.com>
+Name: Tweak name
+
+Package: Ex: com.frostzone.helloworld
+Version: 0.0.1
+Architecture: 
+Depends: 
+Maintainer: iPwned <test@email.com>
+Filename: /com.russianbear.passcodedisabled_0.0.1_iphoneos-arm.deb
+Size: 80756
+MD5sum: 7a011280e642756eda9ac01304fbf33b
+SHA1: 6ec3ec3b077fa60f172c2e58512313c6f5173b14
+SHA256: 353f8833897dd1785f945177bac69918ec4bbdb6981310c0c13486c539afca95
+Section: Ex: Tweaks, Theme
+Description: An awesome mobile substrate tweak
+Author: iPwned <test@email.com>
+Name: Tweak name
+>>>>>>> Stashed changes

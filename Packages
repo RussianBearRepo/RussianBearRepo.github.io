@@ -3,25 +3,39 @@ Architecture: iphoneos-arm
 Version: 0.0.1
 Section: Tweaks
 Maintainer: russianbear
+Installed-Size: 584
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), preferenceloader
 Filename: ./debians/com.russianbear.passcodedisabled_0.0.1_iphoneos-arm.deb
 Size: 80756
 MD5sum: 7a011280e642756eda9ac01304fbf33b
+SHA1: 6ec3ec3b077fa60f172c2e58512313c6f5173b14
+SHA256: 353f8833897dd1785f945177bac69918ec4bbdb6981310c0c13486c539afca95
+SHA512: 482809917ee9f4a6e1a75842c3f57ccba9318d27f3b974e754faa302d82f5171c71e19d7843804bad806bfc4561a83793acc8ba7cd94b324885f2cd8fc81a2e4
 Description: Customize the screen when you disable your passcode!
 Name: Passcode Disabled
 Author: russianbear
 Depiction: https://russianbearrepo.github.io/depictions/?p=com.russianbear.passcodedisabled
+Icon: https://github.com/RussianBearRepo/RussianBearRepo.github.io/blob/main/icons/passcodeDisabled.png
+SileoDepiction: 
 
 Package: com.russianbear.passcodedisabled
 Architecture: iphoneos-arm64
 Version: 0.0.1
 Section: Tweaks
 Maintainer: russianbear
+Installed-Size: 584
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), preferenceloader
 Filename: ./debians/com.russianbear.passcodedisabled_0.0.1_iphoneos-arm64.deb
 Size: 80604
 MD5sum: 744e68cf5a260be595a0e580670128dd
+SHA1: 6dd603060b641940b78a1ad579b75d2292eddf11
+SHA256: 313310a547b034201beed0ebc43f9cc38801d3083139ffee864fd8a4f145cd05
+SHA512: a38e514293e297d1df451d79d22184b00d0e95bc8ae1081094ac74a7f3b6152020d4ff89c758ec82a08c651c23c59b79057ee125cedc44b1bc04e2f53558cc90
 Description: Customize the screen when you disable your passcode!
+Depiction: https://russianbearrepo.github.io/depictions/?p=com.russianbear.passcodedisabled
+Icon: https://github.com/RussianBearRepo/RussianBearRepo.github.io/blob/main/icons/passcodeDisabled.png
+SileoDepiction: 
 Name: Passcode Disabled
 Author: russianbear
 Depiction: https://russianbearrepo.github.io/depictions/?p=com.russianbear.passcodedisabled
+Icon: https://github.com/RussianBearRepo/RussianBearRepo.github.io/blob/main/icons/passcodeDisabled.png

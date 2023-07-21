@@ -16,7 +16,7 @@ Name: Passcode Disabled
 Author: russianbear
 Depiction: https://russianbearrepo.github.io/depictions/?p=com.russianbear.passcodedisabled
 Icon: https://github.com/RussianBearRepo/RussianBearRepo.github.io/blob/main/icons/passcodeDisabled.png
-SileoDepiction: 
+SileoDepiction: https://github.com/RussianBearRepo/RussianBearRepo.github.io/tree/main/depictions/native/com.russianbear.passcodedisabled
 
 Package: com.russianbear.passcodedisabled
 Architecture: iphoneos-arm64
@@ -34,7 +34,7 @@ SHA512: a38e514293e297d1df451d79d22184b00d0e95bc8ae1081094ac74a7f3b6152020d4ff89
 Description: Customize the screen when you disable your passcode!
 Depiction: https://russianbearrepo.github.io/depictions/?p=com.russianbear.passcodedisabled
 Icon: https://github.com/RussianBearRepo/RussianBearRepo.github.io/blob/main/icons/passcodeDisabled.png
-SileoDepiction: 
+SileoDepiction: https://github.com/RussianBearRepo/RussianBearRepo.github.io/tree/main/depictions/native/com.russianbear.passcodedisabled
 Name: Passcode Disabled
 Author: russianbear
 Depiction: https://russianbearrepo.github.io/depictions/?p=com.russianbear.passcodedisabled

@@ -8,7 +8,34 @@
 			"views": [
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## Passcode Disabled\nCustomize the screen when you disable your passcode!"
+					"markdown": "## Passcode Disabled"
+				},
+				{
+					"class": "DepictionSpacerView",
+					"spacing": 4
+				},
+				{
+					"itemSize": "{160, 275.41333333333336}",
+					"itemCornerRadius": 6,
+					"class": "DepictionScreenshotsView",
+					"screenshots": [
+						{
+							"accessibilityText": "Screenshot0",
+							"url": "https://raw.githubusercontent.com/RussianBearRepo/RussianBearRepo.github.io/main/Screenshots/com.russianbear.passcodedisabled.png"
+						},
+						{
+							"accessibilityText": "Screenshot1",
+							"url": "https://raw.githubusercontent.com/RussianBearRepo/RussianBearRepo.github.io/main/Screenshots/com.russianbear.passcodedisabled_2.png"
+						}
+					]
+				},
+				{
+					"class": "DepictionSpacerView",
+					"spacing": 4
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "Customize the screen when you disable your passcode!"
 				},
 				{
 					"class": "DepictionSeparatorView"

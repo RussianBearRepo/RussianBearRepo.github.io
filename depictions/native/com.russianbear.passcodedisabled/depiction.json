@@ -29,11 +29,6 @@
 					"class": "DepictionTableTextView"
 				},
 				{
-					"title": "Website",
-					"action": "https://russianbearrepo.github.io/",
-					"class": "DepictionTableButtonView"
-				},
-				{
 					"spacing": 16,
 					"class": "DepictionSpacerView"
 				},
